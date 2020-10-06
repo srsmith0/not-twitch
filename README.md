@@ -1,4 +1,4 @@
 # Video Streaming App
-Still building...
-
-This uses Redux, Redux Form, and OAuth to create a video streaming page.  
+Barebones app that allows a user to stream video to the application.
+Built with Redux, Thunk, Redux Form, OAuth, flv.js, OBS, Lodash, 
+React Router, and JSON Server.
